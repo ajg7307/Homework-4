@@ -1,0 +1,16 @@
+Last login: Wed Apr 22 21:21:54 on ttys000
+aj@AJs-MacBook-Pro ~ % ollama run llama3.2
+zsh: command not found: ollama
+aj@AJs-MacBook-Pro ~ % ollama run llama3.2
+pulling manifest 
+pulling dde5aa3fc5ff: 100% ▕██████████████████▏ 2.0 GB                         
+pulling 966de95ca8a6: 100% ▕██████████████████▏ 1.4 KB                         
+pulling fcc5a6bec9da: 100% ▕██████████████████▏ 7.7 KB                         
+pulling a70ff7e570d9: 100% ▕██████████████████▏ 6.0 KB                         
+pulling 56bb8bd477a5: 100% ▕██████████████████▏   96 B                         
+pulling 34bb5ab01051: 100% ▕██████████████████▏  561 B                         
+verifying sha256 digest 
+writing manifest 
+success 
+>>> Send a message (/? for help)
+
